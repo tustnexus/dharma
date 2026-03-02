@@ -1,10 +1,10 @@
 # Dharma Project
 
 ## Overview
-Dharma is an innovative project aimed at solving complex problems in the domain of [specific domain or industry]. This README provides comprehensive documentation and serves as a guideline for developers, contributors, and end-users.
+Dharma is a project for Digital Cultural Preservation of endangered languages and literature. This README provides comprehensive documentation and serves as a guideline for developers, contributors, and end-users.
 
 ## Features
-- **Feature 1**: Brief description of feature 1.
+- **Bio**: List of people working in the area of Endangered Indian Languages.
 - **Feature 2**: Brief description of feature 2.
 - **Feature 3**: Brief description of feature 3.
 
